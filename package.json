@@ -1,0 +1,24 @@
+{
+  "name": "4usersweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "guilhermeosr"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Guilherme de Oliveira Santa Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.4",
+    "nodemon": "^2.0.15"
+  }
+}
